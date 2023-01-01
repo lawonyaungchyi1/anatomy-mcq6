@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anatomy-mcq6/static/css/main.3d10672c.css",
+    "main.js": "/anatomy-mcq6/static/js/main.3de3f3d6.js",
+    "static/media/nyanlin.png": "/anatomy-mcq6/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/anatomy-mcq6/index.html",
+    "main.3d10672c.css.map": "/anatomy-mcq6/static/css/main.3d10672c.css.map",
+    "main.3de3f3d6.js.map": "/anatomy-mcq6/static/js/main.3de3f3d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.3de3f3d6.js"
+  ]
+}
